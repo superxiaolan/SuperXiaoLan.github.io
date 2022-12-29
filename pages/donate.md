@@ -12,9 +12,10 @@ permalink: /donate/
 > 
 > Did some tiny things, consider buying me a cup of coffee if it helps you.
 
-## Paypal
+## 支付宝 / Alipay
 
-[Donate via Paypal](https://paypal.me/mzlogin)
+<img style="width:256px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/receipt-code-alipay.jpeg" alt="alipay receipt code" />
+
 
 ## 微信 / Wechat
 
